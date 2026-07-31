@@ -97,7 +97,6 @@ Asset Management
 │
 ├── Savings
 ├── Investments
-├── Gold
 ├── Property
 ├── Loans
 └── Miscellaneous
@@ -109,7 +108,7 @@ Asset Management is responsible for storing and managing the different forms of 
 |------------|-----------|-------------|
 | **BF6** | Savings | Manages the user's savings accounts and their balances. |
 | **BF7** | Investments | Manages long-term investments such as stocks, ETFs, funds, bonds and cryptocurrency. |
-| **BF9** | Gold | Manages physical gold holdings and their current values. |
+| **BF9** | Precious materials | Manages material holdings and their current values. |
 | **BF8** | Property | Manages property owned by the user and its current value. |
 | **BF10** | Loans | Manages mortgages and other liabilities owed by the user. |
 | **BF9** | Miscellaneous | Manages other valuable assets that do not belong to the other categories. |
